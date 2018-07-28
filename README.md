@@ -5,7 +5,15 @@ Wrapper bureautique pour PHP
 
 PokiPoki vous permet de transformer n'importe quel script php/hmtl/css/javascript en application bureautique.
 
-Aucune installationr requise, de nombreuses options de personnalisations proposées via le fichier de configuration
-pokipoki.json et une librairie javascript permettant d'utiliser de nombreuses fonctionnalités bureautique (notification, clé de registre, déplacement/agrandissement/fermeture... de la fenetre, execution de commandes systèmes, récuperations d'infos...) il vous est possible de proposer vos site web sous forme d'application windows de manière totalement transparente.
+Attention
+===========
 
-Toute la doc est disponible ici : http://projet.idleman.fr/pokipoki
+En raison du rachat de github par Microsoft, le dépot a été migré sur le serveur suivant : 
+[https://git.idleman.fr/idleman/pokipoki](https://git.idleman.fr/idleman/pokipoki)
+
+Warning
+===========
+
+Due to the redemption of github by Microsoft, the repository has been migrated to the following server:
+[https://git.idleman.fr/idleman/pokipoki](https://git.idleman.fr/idleman/pokipoki)
+
